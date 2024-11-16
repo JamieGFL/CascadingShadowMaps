@@ -1,0 +1,24 @@
+# Blender 3.4.1 MTL File: 'banc.blend'
+# www.blender.org
+
+newmtl Couleur_Barres
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.009134 0.009134 0.012286
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd black.png
+
+newmtl Couleur_Planches
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.087140 0.040466 0.019449
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd brown2.png

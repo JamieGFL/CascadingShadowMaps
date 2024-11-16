@@ -1,0 +1,73 @@
+# CLion specific
+.idea/
+*.iws
+*.ipr
+*.iml
+*.ids
+*.orig
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# OpenGL / GLFW specific
+
+# Here you may want to add specific files created by GLFW that you don't want to keep in your repository
+# For example:
+# *.log
+# *.patch
+
+# Build files
+cmake-build-*/
+build/
+Debug/
+Output/
+*.o
+*.so
+*.so.*
+*.a
+*.slo
+*.lo
+*.dll
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Makefile
+*.cmake
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+*.DS_Store
+*.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
